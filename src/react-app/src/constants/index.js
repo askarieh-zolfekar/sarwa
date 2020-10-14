@@ -1,0 +1,7 @@
+const ACCOUNT_PAGINATION_SIZE = [2, 10, 25];
+const FILTER_TYPE_DROPDOWN = 'dropdown';
+
+export {
+    ACCOUNT_PAGINATION_SIZE,
+    FILTER_TYPE_DROPDOWN
+}
