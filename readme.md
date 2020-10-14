@@ -1,5 +1,8 @@
-### Overview
-This boilerplate is built for a NodeJS backend with a MongoDB database
+### Important note about the front end
+please make sure to rename .env.sample to .env before building it, as there is an important configuration needed their which is
+
+INLINE_RUNTIME_CHUNK=false
+
 
 ### Installation
 - Install [node.js](https://nodejs.org) if don't have it on your machine already. 
